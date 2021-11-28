@@ -1,0 +1,16 @@
+diff --git a/nithyapriya.txt b/nithyapriya.txt
+new file mode 100644
+index 0000000..ab6efce
+--- /dev/null
++++ b/nithyapriya.txt
+@@ -0,0 +1,2 @@
++nithyapriya c
++20CSR141
+diff --git a/priyadharshini.txt b/priyadharshini.txt
+deleted file mode 100644
+index 7c70f39..0000000
+--- a/priyadharshini.txt
++++ /dev/null
+@@ -1,2 +0,0 @@
+-priyadharshini k
+-20CSR155
