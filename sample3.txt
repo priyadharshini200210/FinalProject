@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+int num,remain;
+clrscr();
+printf("enter any number");
+scanf("%d",&num);
+printf("the reverse binary digits of the given decimal number is:");
+for(;num!=0;)
+{
+remain=num%2;
+num=num/2;
+printf("%d",remain);
+}
+getch();
+return 0;
+}
